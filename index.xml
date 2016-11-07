@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azinudinachzab.github.io</title>
+    <link>https://azinudinachzab.github.io/index.xml</link>
+    <description>Recent content on azinudinachzab.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016 Azinudin Achzab Design credit: </copyright>
+    <lastBuildDate>Mon, 07 Nov 2016 23:55:48 +0700</lastBuildDate>
+    <atom:link href="https://azinudinachzab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello world</title>
+      <link>https://azinudinachzab.github.io/post/hello-world/</link>
+      <pubDate>Mon, 07 Nov 2016 23:55:48 +0700</pubDate>
+      
+      <guid>https://azinudinachzab.github.io/post/hello-world/</guid>
+      <description>&lt;p&gt;Hello World!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://azinudinachzab.github.io/contact/contactme/</link>
+      <pubDate>Mon, 07 Nov 2016 23:37:22 +0700</pubDate>
+      
+      <guid>https://azinudinachzab.github.io/contact/contactme/</guid>
+      <description>&lt;p&gt;If you live around Indonesia, and willing to visit me, please feel free to take a sip at our family humble house&lt;/p&gt;
+
+&lt;p&gt;Komp. Gria Jakarta B5/18, Pamulang, Tangerang Selatan, Banten&lt;/p&gt;
+
+&lt;p&gt;Or&lt;/p&gt;
+
+&lt;p&gt;If you are too far away but want to get in touch, feel free to send me a message!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me!</title>
+      <link>https://azinudinachzab.github.io/about/aboutme/</link>
+      <pubDate>Mon, 07 Nov 2016 23:29:17 +0700</pubDate>
+      
+      <guid>https://azinudinachzab.github.io/about/aboutme/</guid>
+      <description>&lt;p&gt;Hello World,
+My name is Azinudin Achzab
+I live in Indonesia
+I am male and 20th
+Thanks for your visit!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
