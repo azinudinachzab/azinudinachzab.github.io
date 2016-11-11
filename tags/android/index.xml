@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azinudinachzab.github.io</title>
+    <link>https://azinudinachzab.github.io/tags/android/index.xml</link>
+    <description>Recent content on azinudinachzab.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016 Azinudin Achzab Design credit: </copyright>
+    <atom:link href="https://azinudinachzab.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Simple Login Page Using MIT AI2</title>
+      <link>https://azinudinachzab.github.io/post/login-page/</link>
+      <pubDate>Fri, 11 Nov 2016 22:06:48 +0700</pubDate>
+      
+      <guid>https://azinudinachzab.github.io/post/login-page/</guid>
+      <description>&lt;p&gt;&lt;h1&gt;Simple Login Page Using MIT AI2&lt;/h1&gt;
+(Link on below)&lt;br&gt;
+&lt;br&gt;This time i&amp;rsquo;ll share a simple login page using MIT&amp;rsquo;s App Inventor 2&lt;/p&gt;
+
+&lt;p&gt;The idea is to make a login page with hosted database, in this case i separated the PHP file for sign up and login. In the PHP for login i&amp;rsquo;m just using select query which to match the username and password and in the PHP for sign up i&amp;rsquo;m using insert query to add the data from sign up form to the database through GET method.&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Why using GET method instead of POST method? because as far as i know the only interaction of AI2 and the database is through the url, so the only way to insert data is using GET method. And if you&amp;rsquo;ve read my PHP for login and found out that the password is converted to csv table, it&amp;rsquo;s because converting to csv table is the way to deliver data from database to the application.&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;AI2 supported convertion from csv table to list, i thought converting the data from database to csv is a good and simple way to get the data. The convertion is featured on list menu, you just need to drag the block thats all.&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;And from the client side when you want to do a login or sign up you just need to open the PHP with a GET method addition on the url. The data you want to insert/select is taken from the textbox, so you just modifying the url on the client side program.&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Thats all, a simple way to making a login page. You could implementing it on the other mobile IDEs but not recommend it on serious project because of security reason. There are so many way to make a login page on android application, this one is just a sample to explain you the step to make it. If you feel my way to do it is bad and this article cant explain more get up from your bed and kick some code. Cheers!&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;i&gt;&lt;a href=&#34;https://github.com/azinudinachzab/ai2-login-page&#34;&gt;https://github.com/azinudinachzab/ai2-login-page&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
